@@ -1,0 +1,11 @@
+.nav-item :hover{
+    background-color: aquamarine;
+}
+.navbar-nav{
+    font-family: "Sofia", sans-serif; 
+}
+body{
+    background-color:  aquamarine;
+}
+
+
